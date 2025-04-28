@@ -1,6 +1,6 @@
 # Escape Or Die: The Ultimate Survival Challenge
 
-![Escape Or Die](https://raw.githubusercontent.com/geometry-games/escape-or-die/refs/heads/main/escape-or-die.png "Escape Or Die")
+![Escape Or Die](https://s.geometrydashgames.io/games/escape-or-die/escape-or-die.png "Escape Or Die")
 
 👉👉 Click to play: [Escape Or Die](https://geometrydashgames.io/escape-or-die/ "Escape Or Die")
 
